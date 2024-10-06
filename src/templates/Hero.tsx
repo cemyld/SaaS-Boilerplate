@@ -12,7 +12,7 @@ const Hero = () => {
     <Section className="py-36">
       <CenteredHero
         banner={{
-          href: 'https://twitter.com/mailgress',
+          href: 'https://twitter.com/newsletterdb',
           text: (
             <>
               <TwitterLogoIcon className="mr-1 size-5" /> {t('follow_twitter')}
