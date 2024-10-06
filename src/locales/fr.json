@@ -1,164 +1,172 @@
 {
   "Index": {
-    "meta_title": "SaaS Template - Le template SaaS parfait pour construire et mettre à l'échelle votre entreprise en toute simplicité.",
-    "meta_description": "Un template gratuit et open-source de landing page pour votre entreprise SaaS, construit avec React, TypeScript, Shadcn UI et Tailwind CSS."
+    "meta_title": "NewsletterDB - Archivez, Analysez et Optimisez les Stratégies Email de vos Concurrents",
+    "meta_description": "NewsletterDB aide les entreprises à archiver et analyser les newsletters de leurs concurrents pour découvrir des insights marketing et obtenir un avantage concurrentiel."
   },
   "Navbar": {
-    "sign_in": "Se connecter",
-    "sign_up": "S'inscrire",
-    "product": "Produit",
-    "docs": "Docs",
+    "sign_in": "Connexion",
+    "sign_up": "Inscription",
+    "product": "Fonctionnalités",
+    "docs": "Documentation",
     "blog": "Blog",
     "community": "Communauté",
-    "company": "Entreprise"
+    "company": "À propos de nous"
   },
   "Hero": {
-    "follow_twitter": "Suivez @Ixartz sur Twitter",
-    "title": "Le parfait <important>SaaS template</important> pour construire et mettre à l'échelle votre entreprise en toute simplicité.",
-    "description": "Un template gratuit et open-source de landing page pour votre entreprise SaaS, construit avec React, TypeScript, Shadcn UI et Tailwind CSS.",
-    "primary_button": "Démarrer",
-    "secondary_button": "Mettez une étoile sur GitHub"
+    "follow_twitter": "Suivez @NewsletterDB sur Twitter",
+    "title": "Libérez la puissance de <important>l'intelligence email</important> avec NewsletterDB.",
+    "description": "Archivez et analysez les newsletters de vos concurrents pour obtenir des insights et rester en tête du marché. Profitez d'analyses de données avancées construites avec React, TypeScript et Tailwind CSS.",
+    "primary_button": "Commencer l'essai gratuit",
+    "secondary_button": "Voir sur GitHub"
   },
   "Sponsors": {
-    "title": "Sponsorisé par"
+    "title": "Fait confiance par les leaders de l'industrie"
   },
   "Features": {
-    "section_subtitle": "Fonctionnalités",
-    "section_title": "Débloquer le plein potentiel du SaaS Template",
-    "section_description": "Un template gratuit et open-source de landing page pour votre entreprise SaaS, construit avec React, TypeScript, Shadcn UI et Tailwind CSS.",
-    "feature1_title": "Node.js",
-    "feature2_title": "React",
-    "feature3_title": "Tailwind CSS",
-    "feature4_title": "TypeScript",
-    "feature5_title": "Shadcn UI",
-    "feature6_title": "ESLint",
-    "feature_description": "Un template gratuit et open-source de landing page pour votre entreprise SaaS, construit avec React, TypeScript, Shadcn UI et Tailwind CSS."
+    "section_subtitle": "Principales Fonctionnalités",
+    "section_title": "Améliorez votre Stratégie Marketing avec l'Analyse Email Concurrentielle",
+    "section_description": "NewsletterDB propose des fonctionnalités robustes pour analyser et optimiser les campagnes email de vos concurrents.",
+    "feature1_title": "Archivage des Newsletters",
+    "feature2_title": "Analyse Email Avancée",
+    "feature3_title": "Détection des Tendances",
+    "feature4_title": "Rapports de Performance des Campagnes",
+    "feature5_title": "Tableau de Bord d'Insights Personnalisés",
+    "feature6_title": "Suivi des Concurrents",
+    "feature_description": "Utilisez des outils avancés pour archiver et analyser les emails de vos concurrents et obtenir des insights exploitables."
   },
   "Pricing": {
-    "section_subtitle": "Fonctionnalités",
-    "section_title": "Débloquer le plein potentiel du SaaS Template",
-    "section_description": "Un template gratuit et open-source de landing page pour votre entreprise SaaS, construit avec React, TypeScript, Shadcn UI et Tailwind CSS.",
-    "button_text": "Démarrer"
+    "section_subtitle": "Plans Tarifs",
+    "section_title": "Choisissez le Plan Parfait pour Vos Besoins",
+    "section_description": "Que vous soyez un marketeur individuel ou une entreprise, NewsletterDB a un plan adapté à vos besoins en recherche concurrentielle.",
+    "button_text": "Commencer l'essai gratuit"
   },
   "PricingPlan": {
-    "free_plan_name": "Gratuit",
-    "premium_plan_name": "Premium",
-    "enterprise_plan_name": "Enterprise",
-    "free_plan_description": "Pour les particuliers",
-    "premium_plan_description": "Pour les petites équipes",
-    "enterprise_plan_description": "Pour les leaders de l'industrie",
-    "feature_team_member": "{number} membres",
-    "feature_website": "{number} sites internet",
-    "feature_storage": "{number} Go de stockage",
-    "feature_transfer": "{number} TB de transfert",
-    "feature_email_support": "Support par e-mail",
+    "free_plan_name": "Débutant",
+    "premium_plan_name": "Pro",
+    "enterprise_plan_name": "Entreprise",
+    "free_plan_description": "Pour les individus réalisant des recherches à petite échelle.",
+    "premium_plan_description": "Pour les équipes ayant besoin d'insights concurrentiels approfondis.",
+    "enterprise_plan_description": "Pour les grandes organisations avec des besoins avancés.",
+    "feature_team_member": "{number} Membres de l'Équipe",
+    "feature_website": "{number} Sites Web Concurrents",
+    "feature_storage": "{number} Go de Stockage d'Emails",
+    "feature_transfer": "{number} Alertes en Temps Réel",
+    "feature_email_support": "Support Email Prioritaire",
     "plan_interval_month": "mois",
-    "plan_interval_year": "année",
-    "next_renew_date": "Votre abonnement sera renouvelé le {date}"
+    "plan_interval_year": "an",
+    "next_renew_date": "Votre abonnement se renouvelle le {date}"
   },
   "FAQ": {
-    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
-    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam enim dui, id consequat turpis ullamcorper ac. Mauris id quam dolor. Nullam eu egestas turpis. Proin risus elit, sollicitudin in mi a, accumsan euismod turpis. In euismod mi sed diam tristique hendrerit."
+    "question_1": "Qu'est-ce que NewsletterDB?",
+    "answer_1": "NewsletterDB est une plateforme qui aide les entreprises à archiver et analyser les newsletters de leurs concurrents, fournissant des insights exploitables pour un avantage concurrentiel.",
+    "question_2": "Comment fonctionne NewsletterDB?",
+    "answer_2": "NewsletterDB capture les newsletters de vos concurrents et les stocke pour une analyse et un reporting faciles.",
+    "question_3": "NewsletterDB est-il gratuit?",
+    "answer_3": "NewsletterDB propose un plan gratuit avec des fonctionnalités de base, ainsi que des plans payants avec des analyses avancées.",
+    "question_4": "Mes données sont-elles sécurisées?",
+    "answer_4": "NewsletterDB utilise des pratiques de sécurité et de chiffrement pour garantir la sécurité de vos données.",
+    "question_5": "Puis-je exporter les données analysées?",
+    "answer_5": "Oui, NewsletterDB vous permet d'exporter les données au format CSV ou PDF pour une analyse plus approfondie."
   },
   "CTA": {
-    "title": "Vous êtes prêt?",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "button_text": "Mettez une étoile sur GitHub"
+    "title": "Prêt à faire passer votre marketing au niveau supérieur?",
+    "description": "Commencez à utiliser NewsletterDB dès aujourd'hui pour archiver et analyser les newsletters de vos concurrents.",
+    "button_text": "Commencer"
   },
   "Footer": {
-    "product": "Produit",
-    "docs": "Docs",
+    "product": "Fonctionnalités",
+    "docs": "Documentation",
     "blog": "Blog",
     "community": "Communauté",
-    "company": "Entreprise",
-    "terms_of_service": "Conditions d'utilisation",
-    "privacy_policy": "Politique de confidentialité",
-    "designed_by": "Designé by <author></author>"
+    "company": "À propos de nous",
+    "terms_of_service": "Conditions d'Utilisation",
+    "privacy_policy": "Politique de Confidentialité",
+    "designed_by": "Conçu par <author>l'Équipe NewsletterDB</author>"
   },
   "ProtectFallback": {
-    "not_enough_permission": "Vous n'avez pas les permissions pour effectuer cette action"
+    "not_enough_permission": "Vous n'avez pas la permission d'effectuer cette action"
   },
   "SignIn": {
-    "meta_title": "Se connecter",
-    "meta_description": "Connectez-vous à votre compte avec facilité."
+    "meta_title": "Connexion à NewsletterDB",
+    "meta_description": "Connectez-vous pour accéder à votre tableau de bord d'insights email concurrentiels."
   },
   "SignUp": {
-    "meta_title": "S'inscrire",
-    "meta_description": "Créez un compte sans effort grâce à notre processus d'inscription intuitif."
+    "meta_title": "Inscription à NewsletterDB",
+    "meta_description": "Créez un compte pour commencer à analyser les campagnes email de vos concurrents."
   },
   "DashboardLayout": {
-    "home": "Accueil",
-    "todos": "Todos",
-    "members": "Membres",
+    "home": "Tableau de Bord",
+    "todos": "Tâches",
+    "members": "Équipe",
     "billing": "Facturation",
-    "settings": "Réglages"
+    "settings": "Paramètres"
   },
   "Dashboard": {
-    "meta_title": "Tableau de bord du SaaS Template",
-    "meta_description": "Un template gratuit et open-source de landing page pour votre entreprise SaaS, construit avec Next.js, TypeScript, Shadcn UI et Tailwind CSS."
+    "meta_title": "Tableau de Bord NewsletterDB",
+    "meta_description": "Accédez et gérez vos newsletters archivées et vos insights concurrentiels sur la plateforme NewsletterDB."
   },
   "DashboardIndex": {
-    "title_bar": "Tableau de bord",
-    "title_bar_description": "Bienvenue sur votre tableau de bord",
-    "message_state_title": "C'est parti",
-    "message_state_description": "Vous pouvez personnaliser cette page en modifiant le fichier dans <code>src/app/[locale]/(auth)/dashboard/page.tsx</code>",
-    "message_state_button": "Besoin d'une intégration Stripe ? Découvrez Next.js Boilerplate Pro"
+    "title_bar": "Tableau de Bord",
+    "title_bar_description": "Bienvenue dans votre tableau de bord d'insights email concurrentiels",
+    "message_state_title": "Commencez avec NewsletterDB",
+    "message_state_description": "Vous pouvez personnaliser votre tableau de bord en modifiant les paramètres dans <code>dashboard/page.tsx</code>",
+    "message_state_button": "Besoin d'aide? Consultez notre support."
   },
   "UserProfile": {
-    "title_bar": "Profil utilisateur",
-    "title_bar_description": "Afficher et gérer votre profil utilisateur"
+    "title_bar": "Profil Utilisateur",
+    "title_bar_description": "Voir et gérer votre profil utilisateur et les paramètres du compte"
   },
   "OrganizationProfile": {
-    "title_bar": "Gestion de l’organisation",
-    "title_bar_description": "Gérer votre organisation"
+    "title_bar": "Gestion de l'Organisation",
+    "title_bar_description": "Gérez les paramètres de votre organisation sur NewsletterDB"
   },
   "Billing": {
     "title_bar": "Facturation",
-    "title_bar_description": "Gérer votre facturation et votre abonnement",
-    "current_section_title": "Plan actuel",
-    "current_section_description": "Ajuster votre plan de paiement pour le mieux répondre à vos besoins",
-    "manage_subscription_button": "Gérer l'abonnement"
+    "title_bar_description": "Gérez votre abonnement et vos informations de facturation sur NewsletterDB",
+    "current_section_title": "Plan Actuel",
+    "current_section_description": "Ajustez votre plan d'abonnement en fonction de vos besoins en recherche.",
+    "manage_subscription_button": "Gérer l'Abonnement"
   },
   "BillingOptions": {
-    "current_plan": "Plan actuel",
-    "upgrade_plan": "Démarrer"
+    "current_plan": "Plan Actuel",
+    "upgrade_plan": "Améliorer le Plan"
   },
   "CheckoutConfirmation": {
-    "title_bar": "Confirmation du paiement",
-    "message_state_title": "Paiement accepté",
-    "message_state_description": "Votre paiement a été traité avec succès. Merci pour votre achat !",
-    "message_state_button": "Revenir à la facturation"
+    "title_bar": "Confirmation de Paiement",
+    "message_state_title": "Paiement réussi",
+    "message_state_description": "Votre paiement a été traité avec succès. Merci d'avoir choisi NewsletterDB!",
+    "message_state_button": "Retour à la Facturation"
   },
   "DataTable": {
-    "no_results": "Aucun résultat."
+    "no_results": "Aucune donnée disponible."
   },
   "Todos": {
-    "title_bar": "Liste de Todos",
-    "title_bar_description": "Afficher et gérer votre liste de todos",
-    "add_todo_button": "Nouveau todo"
+    "title_bar": "Liste de Tâches",
+    "title_bar_description": "Voir et gérer les tâches liées à vos recherches email",
+    "add_todo_button": "Nouvelle Tâche"
   },
   "TodoTableColumns": {
-    "open_menu": "Ouvrir le menu",
-    "edit": "Modifier",
-    "delete": "Supprimer",
-    "title_header": "Titre",
-    "message_header": "Message"
+    "open_menu": "Open menu",
+    "edit": "Edit",
+    "delete": "Delete",
+    "title_header": "Task Title",
+    "message_header": "Details"
   },
   "AddTodo": {
-    "title_bar": "Ajouter une todo",
-    "add_todo_section_title": "Créer une nouvelle todo",
-    "add_todo_section_description": "Remplissez le formulaire ci-dessous pour créer une nouvelle todo"
+    "title_bar": "Add Task",
+    "add_todo_section_title": "Create a new research task",
+    "add_todo_section_description": "Fill in the form below to add a new task for your email analysis"
   },
   "EditTodo": {
-    "title_bar": "Editer le todo",
-    "edit_todo_section_title": "Modifier le todo",
-    "edit_todo_section_description": "Remplissez le formulaire ci-dessous pour modifier la todo"
+    "title_bar": "Edit Task",
+    "edit_todo_section_title": "Modify research task",
+    "edit_todo_section_description": "Fill in the form below to update your task"
   },
   "TodoForm": {
-    "title_label": "Titre",
-    "title_description": "Entrez un titre descriptif pour votre todo.",
-    "message_title": "Message",
-    "message_description": "Entrez un message détaillé pour votre todo.",
-    "submit_button": "Envoyer"
+    "title_label": "Task Title",
+    "title_description": "Enter a descriptive title for your research task.",
+    "message_title": "Details",
+    "message_description": "Enter detailed information about the task.",
+    "submit_button": "Save Task"
   }
 }
