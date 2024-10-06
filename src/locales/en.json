@@ -1,7 +1,7 @@
 {
   "Index": {
-    "meta_title": "MailGress - Archive, Analyze, and Optimize Your Competitors' Email Strategies",
-    "meta_description": "MailGress helps businesses archive and analyze newsletter emails from competitors to unlock marketing insights and drive competitive advantage."
+    "meta_title": "NewsletterDB - Archive, Analyze, and Optimize Your Competitors' Email Strategies",
+    "meta_description": "NewsletterDB helps businesses archive and analyze newsletter emails from competitors to unlock marketing insights and drive competitive advantage."
   },
   "Navbar": {
     "sign_in": "Log In",
@@ -13,8 +13,8 @@
     "company": "About Us"
   },
   "Hero": {
-    "follow_twitter": "Follow @MailGress on Twitter",
-    "title": "Unlock the power of <important>email intelligence</important> with MailGress.",
+    "follow_twitter": "Follow @NewsletterDB on Twitter",
+    "title": "Unlock the power of <important>email intelligence</important> with NewsletterDB.",
     "description": "Archive and analyze your competitors' newsletters to gain insights and stay ahead in the market. Leverage cutting-edge data analytics built with React, TypeScript, and Tailwind CSS.",
     "primary_button": "Start Free Trial",
     "secondary_button": "See on GitHub"
@@ -25,7 +25,7 @@
   "Features": {
     "section_subtitle": "Key Features",
     "section_title": "Boost Your Marketing Strategy with Competitive Email Analysis",
-    "section_description": "MailGress offers robust features to analyze and optimize your competitors' email campaigns.",
+    "section_description": "NewsletterDB offers robust features to analyze and optimize your competitors' email campaigns.",
     "feature1_title": "Newsletter Archiving",
     "feature2_title": "Advanced Email Analytics",
     "feature3_title": "Trend Detection",
@@ -37,7 +37,7 @@
   "Pricing": {
     "section_subtitle": "Pricing Plans",
     "section_title": "Choose the Perfect Plan for Your Needs",
-    "section_description": "Whether you're an individual marketer or an enterprise, MailGress has a plan that suits your competitive research needs.",
+    "section_description": "Whether you're an individual marketer or an enterprise, NewsletterDB has a plan that suits your competitive research needs.",
     "button_text": "Start Free Trial"
   },
   "PricingPlan": {
@@ -57,20 +57,20 @@
     "next_renew_date": "Your subscription renews on {date}"
   },
   "FAQ": {
-    "question_1": "What is MailGress?",
-    "answer_1": "MailGress is a platform that helps businesses archive and analyze their competitors' newsletters, providing actionable insights for competitive advantage.",
-    "question_2": "How does MailGress work?",
-    "answer_2": "MailGress captures newsletters from your competitors and stores them for easy analysis and reporting.",
-    "question_3": "Is MailGress free?",
-    "answer_3": "MailGress offers a free plan with basic features, as well as paid plans with advanced analytics.",
+    "question_1": "What is NewsletterDB?",
+    "answer_1": "NewsletterDB is a platform that helps businesses archive and analyze their competitors' newsletters, providing actionable insights for competitive advantage.",
+    "question_2": "How does NewsletterDB work?",
+    "answer_2": "NewsletterDB captures newsletters from your competitors and stores them for easy analysis and reporting.",
+    "question_3": "Is NewsletterDB free?",
+    "answer_3": "NewsletterDB offers a free plan with basic features, as well as paid plans with advanced analytics.",
     "question_4": "How secure is my data?",
-    "answer_4": "MailGress uses encryption and security best practices to ensure your data is safe.",
+    "answer_4": "NewsletterDB uses encryption and security best practices to ensure your data is safe.",
     "question_5": "Can I export the analyzed data?",
-    "answer_5": "Yes, MailGress allows you to export data in CSV or PDF format for further analysis."
+    "answer_5": "Yes, NewsletterDB allows you to export data in CSV or PDF format for further analysis."
   },
   "CTA": {
     "title": "Ready to take your marketing to the next level?",
-    "description": "Start using MailGress today to archive and analyze your competitors' newsletters.",
+    "description": "Start using NewsletterDB today to archive and analyze your competitors' newsletters.",
     "button_text": "Get Started"
   },
   "Footer": {
@@ -81,17 +81,17 @@
     "company": "About Us",
     "terms_of_service": "Terms of Service",
     "privacy_policy": "Privacy Policy",
-    "designed_by": "Designed by <author>MailGress Team</author>"
+    "designed_by": "Designed by <author>NewsletterDB Team</author>"
   },
   "ProtectFallback": {
     "not_enough_permission": "You do not have permission to perform this action"
   },
   "SignIn": {
-    "meta_title": "Log in to MailGress",
+    "meta_title": "Log in to NewsletterDB",
     "meta_description": "Log in to access your competitive email insights dashboard."
   },
   "SignUp": {
-    "meta_title": "Sign up for MailGress",
+    "meta_title": "Sign up for NewsletterDB",
     "meta_description": "Create an account to start analyzing your competitors' email campaigns."
   },
   "DashboardLayout": {
@@ -102,13 +102,13 @@
     "settings": "Settings"
   },
   "Dashboard": {
-    "meta_title": "MailGress Dashboard",
-    "meta_description": "Access and manage your archived newsletters and competitive insights on the MailGress platform."
+    "meta_title": "NewsletterDB Dashboard",
+    "meta_description": "Access and manage your archived newsletters and competitive insights on the NewsletterDB platform."
   },
   "DashboardIndex": {
     "title_bar": "Dashboard",
     "title_bar_description": "Welcome to your competitive email insights dashboard",
-    "message_state_title": "Get started with MailGress",
+    "message_state_title": "Get started with NewsletterDB",
     "message_state_description": "You can customize your dashboard by editing the settings in <code>dashboard/page.tsx</code>",
     "message_state_button": "Need help? Check out our support."
   },
@@ -118,11 +118,11 @@
   },
   "OrganizationProfile": {
     "title_bar": "Organization Management",
-    "title_bar_description": "Manage your organization's MailGress settings"
+    "title_bar_description": "Manage your organization's NewsletterDB settings"
   },
   "Billing": {
     "title_bar": "Billing",
-    "title_bar_description": "Manage your MailGress subscription and billing information",
+    "title_bar_description": "Manage your NewsletterDB subscription and billing information",
     "current_section_title": "Current Plan",
     "current_section_description": "Adjust your subscription plan to match your research needs.",
     "manage_subscription_button": "Manage Subscription"
@@ -134,7 +134,7 @@
   "CheckoutConfirmation": {
     "title_bar": "Payment Confirmation",
     "message_state_title": "Payment successful",
-    "message_state_description": "Your payment has been successfully processed. Thank you for choosing MailGress!",
+    "message_state_description": "Your payment has been successfully processed. Thank you for choosing NewsletterDB!",
     "message_state_button": "Return to Billing"
   },
   "DataTable": {
